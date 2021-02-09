@@ -6,7 +6,7 @@ Após abrir o projeto com a ferramenta de sua escolha entre na pasta node com o 
 
 Em seguida execute:
 
-* node app.js
+* docker-compose up
 
 E em seu navegador abra as página a seguir:
 
